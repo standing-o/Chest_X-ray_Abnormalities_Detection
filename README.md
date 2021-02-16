@@ -1,1 +1,1 @@
-# Chest_X-ray_Abnormalities_Detection
+# Chest X-ray Abnormalities Detection
