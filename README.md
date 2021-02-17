@@ -1,5 +1,6 @@
 # Chest X-ray Abnormalities Detection (20210216 ~ )
-- All images are labeled for the presence of 14 critical radiographic findings. This competition aims to predict a class ID, confidence score, and bounding box.
+- All images are labeled for the presence of 14 critical radiographic findings. 
+- This competition aims to predict a class ID, confidence score, and bounding box.
 - Vanilla CNN
 
 ### Individual Project for Data Analysis Club
