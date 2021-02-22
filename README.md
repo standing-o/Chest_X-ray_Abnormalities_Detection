@@ -12,5 +12,4 @@
 ```
 [1] Chest X-ray abnormalities: Baseline[TF.Keras], https://www.kaggle.com/bibhash123/chest-x-ray-abnormalities-baseline-tf-keras
 [2] x-ray image Enhancement test, https://www.kaggle.com/kuuuuub/x-ray-image-enhancement-test
-
 ```
