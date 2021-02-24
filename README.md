@@ -4,7 +4,7 @@
 - Vanilla CNN
 
 ### Individual Project for Data Analysis Club
-[[Report]](https://github.com/OH-Seoyoung/Chest_X-ray_Abnormalities_Detection/blob/master/Mid_report.pdf) | [[Presentation]]()
+[[Report]](https://github.com/OH-Seoyoung/Chest_X-ray_Abnormalities_Detection/blob/master/Mid_report.pdf) | [[Presentation]](https://github.com/OH-Seoyoung/Chest_X-ray_Abnormalities_Detection/blob/master/Presentation.pdf)
 
 ### Competition : [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/bibhash123/chest-x-ray-abnormalities-baseline-tf-keras)
 
